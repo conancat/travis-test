@@ -1,6 +1,8 @@
 # Travis-CI Example for NodeJS
 
-This is just a test project for continuous integration. Whee!
+This is just a test project for continuous integration with Travis-CI with NodeJS. Whee! 
+
+Check out the [build status](https://travis-ci.org/conancat/travis-test) of this project.
 
 ## Setting up
 
