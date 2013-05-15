@@ -3,11 +3,14 @@
   "version": "0.0.0",
   "description": "Just a project to test Travis-ci",
   "main": "app.js",
+  "devDependencies": {
+    "mocha": "*"
+  },
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha -R spec"
+    "test": "./node_modules/mocha/bin/mocha -R spec"
   },
   "repository": {
     "type": "git",
