@@ -1,0 +1,20 @@
+{
+  "name": "travis-test",
+  "version": "0.0.0",
+  "description": "Just a project to test Travis-ci",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conancat/travis-test.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "readme.md",
+  "gitHead": "d92f548c3ef43f4694af3974b0527724182f5b2e"
+}
